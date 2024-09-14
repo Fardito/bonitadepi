@@ -1,0 +1,21 @@
+{
+  "title": "Características",
+  "text": "",
+  "section": [
+    {
+      "title": "Habilitado por el ​ANMAT",
+      "content": "Tratamiento seguro y certificado por ANMAT, garantizando máxima confianza y eficacia.",
+      "icon": "check.svg"
+    },
+    {
+      "title": "3 ondas de longitud",
+      "content": "Tecnología avanzada con 3 longitudes de onda para un resultado óptimo en todo tipo de piel y vello.",
+      "icon": "check.svg"
+    },
+    {
+      "title": "Tecnología ICE",
+      "content": "Sistema de enfriamiento Ice que garantiza una depilación indolora y segura.",
+      "icon": "check.svg"
+    }
+  ]
+}
