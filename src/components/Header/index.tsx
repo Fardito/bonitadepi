@@ -44,7 +44,7 @@ const Header = ({ t }: { t: TFunction }) => {
           onClick={() => scrollTo("contact")}
         >
           <Span>
-            <Button>{t("Contactanos")}</Button>
+            <Button>{t("WhatsApp")}</Button>
           </Span>
         </CustomNavLinkSmall>
       </>
